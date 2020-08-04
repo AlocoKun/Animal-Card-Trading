@@ -1,0 +1,11 @@
+body {font-size: 15px;font-family:'Raleway', arial;}
+
+.center  {display:block; margin-left:auto; margin-right:auto}
+.full {border:1px solid grey;
+width: 320px; padding:5px; box-shadow:5px 4px 5px rgba(191, 191, 191, 1);}
+.secondbox {border:1px solid grey;
+width:280px;display: flex;
+flex-wrap: wrap; margin:4px ; margin-top:15px; margin-bottom: 15px;padding: 10px;}
+.interesting {font-style:italic}
+ul {list-style: none;text-align: left;padding:0;}
+span {font-weight:bold}
